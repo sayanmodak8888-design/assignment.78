@@ -22,7 +22,7 @@ if e%2==0:
      print(e,"is even number")
 else:
     print(e,"is odd number") 
-#task 2
+# task 2
 add=0
 for i in range (1,50):
     add= add+i
