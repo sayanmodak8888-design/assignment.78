@@ -1,4 +1,4 @@
-#ASSIGNMENT:1
+# ASSIGNMENT:1
 # task 1
 a=int(input("1st Enter a number: "))
 b=int(input("2nd Enter a number: "))
@@ -15,7 +15,7 @@ c=str(input("Enter your first name: "))
 d=str(input("Enter your last name: "))
 full_name="hello "+c+" "+d+ " wellcome to python programming"
 print("Full Name:",full_name)
-#ASSIGNMENT:2
+# ASSIGNMENT:2
 # task 1
 e=int(input("enter any number: "))
 if e%2==0:
